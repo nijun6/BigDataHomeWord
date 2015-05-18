@@ -15,6 +15,7 @@
 ## 1分布式数据库的现状	
 ## 1.1Facebook分布式的的社交网络数据存储（王晓虹）
 ## 1.2 LinkedIn的分布式NoSQL数据库Espresso（王少磊）
+	nijun6 add 王少磊
 ## 1.3 Spanner
 ## 2 分布式数据库的基本操作优化	
 ## 2.1 Dynamically Optimizing Queries over Large Scale Data Platforms（赵珊珊）
